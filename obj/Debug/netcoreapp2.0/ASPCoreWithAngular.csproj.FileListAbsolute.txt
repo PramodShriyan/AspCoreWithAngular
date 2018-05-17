@@ -1,0 +1,11 @@
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\bin\Debug\netcoreapp2.0\ASPCoreWithAngular.deps.json
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\bin\Debug\netcoreapp2.0\ASPCoreWithAngular.runtimeconfig.json
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\bin\Debug\netcoreapp2.0\ASPCoreWithAngular.runtimeconfig.dev.json
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\bin\Debug\netcoreapp2.0\ASPCoreWithAngular.dll
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\bin\Debug\netcoreapp2.0\ASPCoreWithAngular.pdb
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\obj\Debug\netcoreapp2.0\ASPCoreWithAngular.csprojAssemblyReference.cache
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\obj\Debug\netcoreapp2.0\ASPCoreWithAngular.csproj.CoreCompileInputs.cache
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\obj\Debug\netcoreapp2.0\ASPCoreWithAngular.AssemblyInfoInputs.cache
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\obj\Debug\netcoreapp2.0\ASPCoreWithAngular.AssemblyInfo.cs
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\obj\Debug\netcoreapp2.0\ASPCoreWithAngular.dll
+D:\VS2017\ASPCoreWithAngular\ASPCoreWithAngular\obj\Debug\netcoreapp2.0\ASPCoreWithAngular.pdb
